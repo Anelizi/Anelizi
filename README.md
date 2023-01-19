@@ -29,9 +29,7 @@
 
 <div align="left">
   <h3>My Used Languages</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anelizi&layout=compact=javascript,html"/>
-</a>
 </div>
 <hr>
 
