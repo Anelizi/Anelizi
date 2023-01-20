@@ -13,7 +13,7 @@
     * Passionate about technology, digital design and coffee cannot be missing 💻☕<br>
     * I was born in São Paulo and at the moment I'm in Minas Gerais ❤️<br>
     * My hobbies are drawing, reading and watching movies and series<br>
-    * Pronouns: she/her <br>
+    * Pronouns: she/hers <br>
     * Brazil <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png"></a>
       <h3 aling="center">📫 Contact:</h3>
     <a href="mailto:anelizicarvalho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" target="_blank"></a>
