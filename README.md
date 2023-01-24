@@ -39,6 +39,8 @@
 <a href="https://github.com/search?q=user%3AAnelizi+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
 <!--Typescript-->
 <a href="https://github.com/search?q=user%3AAnelizi+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+<!--Java-->
+<a href="https://github.com/search?q=user%3AAnelizi+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-ce1218.svg?logo=java&logoColor=white"></a>
 <hr>
 <h3>Front-end</h3>
 <!--HTML-->
