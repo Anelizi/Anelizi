@@ -29,7 +29,7 @@
 
 <div align="left">
   <h3>My Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anelizi&layout=compact=javascript,html"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anelizi&compact=javascript,html"/>
 </div>
 <hr>
 
