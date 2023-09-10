@@ -4,8 +4,8 @@
     <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5194F0¢er=true&vCenter=true&width=350&lines=Welcome+to+my+Github+profile!" />
   </h2>
 </div>
-  <img width="350px" align="right" alt="desenho GIT" src="https://user-images.githubusercontent.com/88720426/212503434-f43fbb7a-07b4-42b2-a6b4-226d62f6c6cf.png">
-  <div width="60%" align="left">
+  <img width="45%" align="right" alt="desenho GIT" src="https://user-images.githubusercontent.com/88720426/212503434-f43fbb7a-07b4-42b2-a6b4-226d62f6c6cf.png">
+  <div width="55%" align="left">
     <br>
     * I'm a <strong>Full Stack</strong>  web developer I love dealing with the Front-end, but I also value the Back-end. Passionate about solving challenges. <br>
     * Currently studying Full Stack Web Development at Driven Education. 🎓<br>
