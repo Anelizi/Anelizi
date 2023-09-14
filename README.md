@@ -42,7 +42,7 @@
     align-items: center;
     height: auto; flex-wrap: wrap;">
     <!-- JS -->
-    <img src="https://img.shields.io/badge/JavaScript-262a33?logo=javascript&logoColor=e8ae00" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-262a33?logo=javascript&logoColor=e8ae00" />&nbsp;
     <!--Typescript-->
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-262a33.svg?logo=typescript&logoColor=007ACC" />&nbsp;       
     <!--Express-->
