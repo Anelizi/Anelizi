@@ -111,27 +111,7 @@
     </p>
   </p>
 </div><hr>
-<details>
-<summary style="font-size: 20px"><strong>Stats<strong></summary>
-<div align=center> 
-    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=anelizi&layout=compact&show_icons=true&line_height=10&hide=Other,TSConfig,Markdown,Ezhil,Bash,ActionScript,ActionScript%203&title_color=5194F0&icon_color=2234AE&text_color=FFFFFF&bg_color=0,20232A,255da8">
-  <br/><br>
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Anelizi&count_private=true&show_icons=true&icon_color=5194F0&text_color=ffffff&bg_color=0,20232A,255da8" />
-    <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anelizi&layout=compact&show_icons=true&line_height=10&title_color=5194F0&icon_color=2234AE&text_color=FFFFFF&bg_color=0,20232A,255da8">
-  </div>
-</details><hr>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Anelizi/Track-It" title="Track-It"><img align="left" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anelizi&repo=Track-It&theme=react&title_color=5194F0&icon_color=2234AE&border_color=61dafb&border_radius=10&bg_color=0,20232A,255da8"></a>
-  <a align="right" href="https://github.com/Anelizi/Cine-Flex" title="Driven Pass"><img align="right" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anelizi&repo=Cine-Flex&theme=react&title_color=5194F0&icon_color=2234AE&border_color=61dafb&border_radius=10&bg_color=0,20232A,255da8"></a>
-</div>
-<!-- <br><br><br><br><br><br><br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Anelizi/DrivenPass_api" title="DrivenPass_api"><img align="left" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anelizi&repo=DrivenPass_api&theme=react&title_color=5194F0&icon_color=2234AE&border_color=61dafb&border_radius=10&bg_color=0,20232A,255da8"></a>
-  <a align="right" href="https://github.com/Anelizi/Drivent_api" title="Drivent_api"><img align="right" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anelizi&repo=Drivent_api&theme=react&title_color=5194F0&icon_color=2234AE&border_color=61dafb&border_radius=10&bg_color=0,20232A,255da8"></a>
-</div>
-<br><br><br><br><br><br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Anelizi/MyWallet_api" title="MyWallet_api"><img align="left" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anelizi&repo=MyWallet_api&theme=react&title_color=5194F0&icon_color=2234AE&border_color=61dafb&border_radius=10&bg_color=0,20232A,255da8"></a>
-  <a align="right" href="https://github.com/Anelizi/MyWallet" title="MyWallet"><img align="right" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anelizi&repo=MyWallet&theme=react&title_color=5194F0&icon_color=2234AE&border_color=61dafb&border_radius=10&bg_color=0,20232A,255da8"></a>
-</div> -->
-<br/>
+ &nbsp; 
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Anelizi&count_private=true&show_icons=true&icon_color=5194F0&text_color=ffffff&bg_color=0,20232A,255da8" /> &nbsp;
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=anelizi&layout=compact&show_icons=true&line_height=10&hide=Other,TSConfig,Markdown,Ezhil,Bash,YAML,XML,GDScript3,ActionScript,ActionScript%203&title_color=5194F0&icon_color=2234AE&text_color=FFFFFF&bg_color=0,20232A,255da8"> &nbsp;
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anelizi&layout=compact&show_icons=true&line_height=10&title_color=5194F0&icon_color=2234AE&text_color=FFFFFF&bg_color=0,20232A,255da8"> &nbsp;
